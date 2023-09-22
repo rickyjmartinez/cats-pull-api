@@ -1,0 +1,2 @@
+class TabbiesController < ApplicationController
+end
